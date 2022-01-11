@@ -1,4 +1,4 @@
-package rocks.shumyk.lambda;
+package rocks.shumyk.lambda.expression1;
 
 public class HelloWorldOldWay implements HelloWorldInterface {
 	@Override

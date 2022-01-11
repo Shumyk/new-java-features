@@ -1,4 +1,4 @@
-package rocks.shumyk.lambda;
+package rocks.shumyk.lambda.expression1;
 
 public class HelloWorldLambda {
 	public static void main(String[] args) {
